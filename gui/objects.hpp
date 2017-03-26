@@ -367,7 +367,6 @@ protected:
 	int twcmd(std::string arg);
 	int setbootslot(std::string arg);
 	int installapp(std::string arg);
-	int disable_stock_recovery_replace(std::string arg);
 
 	int simulate;
 };
